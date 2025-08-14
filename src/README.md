@@ -1,4 +1,4 @@
-# Linked List Playground in Modern C++
+# Linked List Playground in C++: Singly, Doubly, and Circular Linked List Implementations
 
 An interactive C++17 program that demonstrates multiple types of linked lists:
 
@@ -23,4 +23,5 @@ linked-list-playground/
 ├── LICENSE
 ├── .gitignore
 └── CMakeLists.txt
+
 
